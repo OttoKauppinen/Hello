@@ -17,3 +17,5 @@ function setTime() {
 }
 
 setTime();
+setTime();
+setInterval(setTime, 1000);
